@@ -1,4 +1,4 @@
-# LiveG-Development.github.io
+# LiveG Open-Source Webstie
 Main website for LiveG Development projects.
 
 Coming soon! We are currently redirecting to just [liveg.tech](https://liveg.tech) until our site is built.
