@@ -1,4 +1,4 @@
-# LiveG Open-Source Webstie
+# LiveG Open-Source Website
 Main website for LiveG Development projects.
 
 Coming soon! We are currently redirecting to just [liveg.tech](https://liveg.tech) until our open-source site is built.
